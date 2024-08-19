@@ -1,4 +1,4 @@
-# old_custom_classes
+# Old Custom Classes
 
 ## Overview
 This repository contains a collection of custom classes that were used in my earlier machine-learning projects. These classes were instrumental in handling various tasks and extending the functionality of standard libraries. However, they were developed without the use of Git and before I fully understood the importance of modularity and efficient coding practices.
@@ -16,7 +16,7 @@ The classes in this repository, while functional, are computationally expensive 
     - Removes outliers using parametric and non-parametric methods.
     - Creates correlation heatmaps.
     - Calculates and graphically displays the Variance Inflation Factor (VIF) for each feature.
-    - Analyzes feature distributions and creates QQ plots.
+    - Analyses feature distributions and creates QQ plots.
     - Transforms data based on a user-defined skew threshold, then compares the transformations using various statistical tests to assess normality, recreating QQ plots for those that pass.
     - Automates the identification of epsilon and theta parameters for DBSCAN.
     - Automatically saves graphs generated during the process using the project name.
